@@ -1,12 +1,12 @@
 {
-    "version": "0.7.2",
+    "version": "0.7.3",
     "description": "Local-first API testing tool to inspect, test and mock APIs.",
     "homepage": "https://github.com/testsmith-io/api-spector",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/testsmith-io/api-spector/releases/download/0.7.2/API-Spector-0.7.2-x64.zip",
-            "hash": "6b3d9e337630cc09cd29d68ec3e52c90a49bac0daaff07c8b4660d60584123cd"
+            "url": "https://github.com/testsmith-io/api-spector/releases/download/0.7.3/API-Spector-0.7.3-x64.zip",
+            "hash": "7d4605f320bf2fe84ba747c23e1234a5b787e6cc32b7e5a5c4704f0f65538be1"
         }
     },
     "bin": "API Spector.exe",
